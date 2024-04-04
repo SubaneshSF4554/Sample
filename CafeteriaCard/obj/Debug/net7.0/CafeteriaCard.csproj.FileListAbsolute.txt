@@ -1,0 +1,15 @@
+C:\Users\SubaneshMurugan\OneDrive - Syncfusion\Desktop\CafeteriaCard\bin\Debug\net7.0\CafeteriaCard.exe
+C:\Users\SubaneshMurugan\OneDrive - Syncfusion\Desktop\CafeteriaCard\bin\Debug\net7.0\CafeteriaCard.deps.json
+C:\Users\SubaneshMurugan\OneDrive - Syncfusion\Desktop\CafeteriaCard\bin\Debug\net7.0\CafeteriaCard.runtimeconfig.json
+C:\Users\SubaneshMurugan\OneDrive - Syncfusion\Desktop\CafeteriaCard\bin\Debug\net7.0\CafeteriaCard.dll
+C:\Users\SubaneshMurugan\OneDrive - Syncfusion\Desktop\CafeteriaCard\bin\Debug\net7.0\CafeteriaCard.pdb
+C:\Users\SubaneshMurugan\OneDrive - Syncfusion\Desktop\CafeteriaCard\obj\Debug\net7.0\CafeteriaCard.csproj.AssemblyReference.cache
+C:\Users\SubaneshMurugan\OneDrive - Syncfusion\Desktop\CafeteriaCard\obj\Debug\net7.0\CafeteriaCard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SubaneshMurugan\OneDrive - Syncfusion\Desktop\CafeteriaCard\obj\Debug\net7.0\CafeteriaCard.AssemblyInfoInputs.cache
+C:\Users\SubaneshMurugan\OneDrive - Syncfusion\Desktop\CafeteriaCard\obj\Debug\net7.0\CafeteriaCard.AssemblyInfo.cs
+C:\Users\SubaneshMurugan\OneDrive - Syncfusion\Desktop\CafeteriaCard\obj\Debug\net7.0\CafeteriaCard.csproj.CoreCompileInputs.cache
+C:\Users\SubaneshMurugan\OneDrive - Syncfusion\Desktop\CafeteriaCard\obj\Debug\net7.0\CafeteriaCard.dll
+C:\Users\SubaneshMurugan\OneDrive - Syncfusion\Desktop\CafeteriaCard\obj\Debug\net7.0\refint\CafeteriaCard.dll
+C:\Users\SubaneshMurugan\OneDrive - Syncfusion\Desktop\CafeteriaCard\obj\Debug\net7.0\CafeteriaCard.pdb
+C:\Users\SubaneshMurugan\OneDrive - Syncfusion\Desktop\CafeteriaCard\obj\Debug\net7.0\CafeteriaCard.genruntimeconfig.cache
+C:\Users\SubaneshMurugan\OneDrive - Syncfusion\Desktop\CafeteriaCard\obj\Debug\net7.0\ref\CafeteriaCard.dll
